@@ -1,2 +1,3 @@
 # monad_presentation
-functors, applicatives, monads
+Example functors, applicatives, and monads written in plain scala
+
